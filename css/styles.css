@@ -1,2 +1,118 @@
-.attribution { font-size: 11px; text-align: center; }
-.attribution a { color: hsl(228, 45%, 44%); }
+body{
+  text-align: center;
+  color: #545456;
+background-color: #F0FFF0;
+  font-family: 'Poppins', sans-serif;
+
+}
+
+
+.top{
+  font-size: 40px;
+  font-weight: 100;
+  margin-bottom: 0;
+}
+
+.middle{
+  font-size: 40px;
+  font-weight: 600;
+  margin: 0 auto 20px auto;
+  color: #545456;
+}
+
+.bottom{
+  font-size: 15px;
+  color: #c9c9cb;
+  margin: 0 auto 60px auto;
+  display: block;
+  width: 32%;
+}
+
+.heading{
+  font-size: 20px;
+  font-weight: 600;
+  text-align: left;
+  padding-left: 35px;
+  margin-bottom: 15px;
+
+}
+
+.data{
+  font-size: 13px;
+  color: #c9c9cb;
+  font-weight: 300;
+  text-align: left;
+  padding-left: 35px;
+
+}
+
+.image{
+  position: relative;
+  left: 115px;
+  top: 35px;
+}
+
+
+.team-builder{
+  display: inline-block;
+  height: 250px;
+  width: 350px;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 14px 25px -10px #abbccc;
+ border-top: 4px solid  #ff4b4a;
+ position: absolute;
+ left: 50%;
+ margin-left: -175px;
+
+}
+
+.Supervisor {
+  display: block;
+  width: 350px;
+  height: 250px;
+  background-color: white;
+  margin-left: 10rem;
+  margin-top: 10%;
+  border-radius: 8px;
+  box-shadow: 0 14px 25px -10px #abbccc;
+  border-top: 4px solid  #35d9d8;
+  position: absolute;
+}
+
+
+.calculator {
+  display: block;
+  width: 350px;
+  height: 250px;
+  background-color: white;
+  margin: 10% 58.125rem;
+  border-radius: 8px;
+  box-shadow: 0 14px 25px -10px #abbccc;
+  border-top: 4px solid  #47a1ff;
+  position: absolute;
+
+}
+
+.karma {
+  display: inline-block;
+  width: 350px;
+  height: 250px;
+  background-color: white;
+  margin: 0 auto;
+  border-radius: 8px;
+  box-shadow: 0 14px 25px -10px #abbccc;
+  border-top: 4px solid  #ffac3d;
+  position: absolute;
+  top: 290px;
+  left: 50%;
+  margin-left: -175px;
+}
+
+.large-box {
+  background-color: grey;
+  position: relative;
+
+  div {
+  margin-bottom: 50px;
+}
